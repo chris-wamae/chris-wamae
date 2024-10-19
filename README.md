@@ -1,4 +1,4 @@
-Greetings and welcome to my GitHub profile. My name is **Christopher Wamae Muraguri**,a professional **full-stack web developer** and hobbyist **game developer**.
+Greetings and welcome to my GitHub profile. My name is **Christopher Wamae Muraguri**, a professional **full-stack web developer** and hobbyist **game developer**.
 
 I love working on projects that challenge me to improve my skills and, more importantly, leave a positive impact on people's lives.
 
